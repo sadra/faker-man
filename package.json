@@ -1,13 +1,14 @@
 {
   "name": "faker",
   "description": "Generate massive amounts of fake contextual data",
-  "version": "4.1.0",
+  "version": "4.2.0",
   "contributors": [
     "Marak Squires <marak.squires@gmail.com>"
+    "Sadra Isapanah Amlashi <sadra@isapanah.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/Marak/Faker.js.git"
+    "url": "git@github.com:sadra/faker.js.git"
   },
   "scripts": {
     "lint": "node_modules/.bin/jshint ./lib --config ./.jshintrc",
